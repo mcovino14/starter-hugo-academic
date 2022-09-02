@@ -70,7 +70,7 @@ email: ''
 highlight_name: true
 ---
 
-Maddie Covino is a firs year PhD student at Columbia University. Her research interests include election administration, voter behavior, and public opinion. 
+Maddie Covino is a first year PhD student at Columbia University. Her research interests include election administration, voter behavior, and public opinion. 
 
 Prior to starting her PhD, Maddie worked in election policy and election administration at the National Vote at Home Institute and in voter behavior research at Public Wise. 
 
